@@ -2,5 +2,6 @@
 Slide Show
 
 
-https://github.com/diegolazarocs/Slide-Show/assets/111025421/f299392c-eda2-46fa-89bb-c4b10c9f58af
+https://github.com/diegolazarocs/Slide-Show/assets/111025421/23f5ecd8-5742-47dc-abd6-0dcd52dcc70d
+
 
